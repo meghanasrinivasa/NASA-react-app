@@ -20,3 +20,5 @@ npm create vite@latest NASA-react-app
 ✔ Select a framework: › React
 ✔ Select a variant: › JavaScript
 ```
+
+This project displays Astronomy Picture of the Day from NASA API.
