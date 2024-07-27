@@ -22,3 +22,9 @@ npm create vite@latest NASA-react-app
 ```
 
 This project displays Astronomy Picture of the Day from NASA API.
+To Run the project first install all the packages and run
+
+```
+npm install
+npm run dev
+```
