@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 Commands used to setup the project:
 
-'''
+```
 npm create vite@latest NASA-react-app                                     
 
 > npx
@@ -19,4 +19,4 @@ npm create vite@latest NASA-react-app
 ✔ Package name: … nasa-react-app
 ✔ Select a framework: › React
 ✔ Select a variant: › JavaScript
-'''
+```
